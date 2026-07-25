@@ -1,4 +1,4 @@
-# About Me
+# About Kainat
 
 I am an **AI Intern at Xeven Solutions**, specializing in developing intelligent solutions and bridging the gap between complex machine learning algorithms and intuitive, user-friendly frontend interfaces.
 
